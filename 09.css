@@ -1,0 +1,11 @@
+p{
+    border: 2px solid red;
+    background-color: skyblue;
+    display: inline;
+}
+a{
+    border: 2px solid red;
+    display: inline-block;
+    height: 100px;
+    width: 1000px;
+}

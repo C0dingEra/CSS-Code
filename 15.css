@@ -1,0 +1,9 @@
+/* px , inch , cm , pt */
+/* 1px==0.75pt */
+/* 16px==12pt */
+/* 1inch==96px */
+/* 1inch==2.54cm */
+
+p{
+    font-size:2.54cm;
+}

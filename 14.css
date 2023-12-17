@@ -1,0 +1,9 @@
+h1::before{
+    content:'*';
+
+}
+
+/* .heading::after{
+    content: ' Thank you ';
+    border: 2px solid red;
+} */

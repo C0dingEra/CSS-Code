@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.para-1{
+    width: 600px;
+    padding: 50px;
+    border: 10px solid red;
+    margin-bottom: 5px;
+}
+
+.para-2{
+    width: 600px;
+    border: 20px solid red;
+    padding: 10px;
+
+}

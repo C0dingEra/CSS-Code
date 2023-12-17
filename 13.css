@@ -1,0 +1,21 @@
+/* p:nth-child(2){
+    color: green;
+} */
+/* p:nth-of-type(2){
+    color: blue;
+} */
+/* :root{
+    color: blue;
+}
+
+html{
+    color: green;
+} */
+
+div:empty{
+    background-color: blue;
+    border: 2px solid red;
+    height:200px;
+    width: 500px;
+
+}

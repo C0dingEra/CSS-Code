@@ -1,0 +1,21 @@
+input[type="text"]{
+    color: green;
+    background-color: skyblue;
+}
+input[type="password"]{
+    color: red;
+}
+
+/* a[href *="google"]{
+    color: red;
+}
+
+a[href ^="https"]{
+    color: red;
+} */
+
+a[href $= ".com"]{
+    color: red;
+}
+
+

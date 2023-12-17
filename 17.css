@@ -1,0 +1,9 @@
+/* vh , vw , vmin , vmax; */
+
+div{
+    color: red;
+    width: 50%;
+    height: 100%;
+    background-color: black;
+
+}
